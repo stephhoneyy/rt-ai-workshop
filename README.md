@@ -21,7 +21,12 @@ This repository contains demo materials for a short workshop on how to use ChatG
   - Summarizing a Bible passage in plain language
   - Create teaching outlines
   - Adapt existing study materials to be simpler/more contextual
- 
+
+## Suggested Order to Go Through Materials  
+
+1. **[Intro to Prompting](intro_prompt_engineering.md)**  
+   Learn the basics of prompts, refining, and iterating (with a small practice exercise).  
+
 ## Tech Notes
 - Free ChatGPT (GPT-3.5): Works well for text-based tables and questions. Copy results into Excel/Docs yourself.
 - ChatGPT Plus (GPT-4/5): More reliable with complex rules, and can generate .xlsx (Excel) rosters directly.
