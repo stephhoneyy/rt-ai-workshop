@@ -26,7 +26,7 @@ This repository contains demo materials for a short workshop on how to use ChatG
 
 1. **[Intro to Prompting](intro_prompt_engineering.md)**  
    Learn the basics of prompts, refining, and iterating (with a small practice exercise).
-2. **[Rostering with ChatGPT](rostering.md)** 
+2. **[Rostering with ChatGPT](rostering.md)**  
    Learn how to make a good roster with rules and requirements with ChatGPT.
 3. **[OSG Material Suport with ChatGPT](osg_material.md)**  
    Learn how to use ChatGPT to aide with creating material for OSGs and other events.
