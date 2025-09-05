@@ -1,4 +1,4 @@
-# Reedeming Tech - Artificial Intelligence Workshop Workbook
+# Redeeming Tech - Artificial Intelligence Workshop Workbook
 
 > **“The heart of man plans his way, but the Lord establishes his steps.”**  
 > — Proverbs 16:9
