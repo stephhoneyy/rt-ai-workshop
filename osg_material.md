@@ -11,6 +11,10 @@ AI cannot replace prayer, study, or discernment — but it can be a **helpful to
 
 [ADD PROMPT --> REFINE --> ITERATE STEPS HERE]
 
+- warn about over reliance on AI
+- the best way to learn is to do it yourself
+- ask chatgpt to provide references --> crosscheck yourself
+
 👉 Each iteration brings you closer to material that fits your group.  
 
 ## Practical Tips  
