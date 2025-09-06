@@ -1,7 +1,7 @@
 # Introduction to Prompting
 
 ## What is a Prompt?
-A prompt is simply what you type into ChatGPT — like asking a question or giving instructions.
+A prompt is simply what you type into ChatGPT, like asking a question or giving instructions.
 
 Example:  
 > "Create an usher roster for September with A, B, and C."
