@@ -2,7 +2,7 @@
 This lesson shows how to use ChatGPT to support **OSG preparation and discipleship**.  
 
 > [!WARNING]  
-> AI cannot replace prayer, study, or discernment — but it can be a **helpful tool** to spark ideas, save time, and create materials you can refine for your group.
+> AI cannot replace prayer, study, or discernment, but it can be a **helpful tool** to spark ideas, save time, and create materials you can refine for your group.
 
 ## Why Use AI for OSG Material?
 - Generate discussion questions quickly  
@@ -29,8 +29,7 @@ Sample Output:
 
 > [!NOTE]  
 > Your output may look a little different from the example shown here.  
-> That’s normal — ChatGPT doesn’t always give identical answers.  
-> The important thing is that the **rules are followed** and you can always refine it to make adjustments.
+> That’s normal, ChatGPT doesn’t always give identical answers.  
 
 Here’s a simple breakdown of John 1 and some discussion prompts for your young adults Bible study:
 
@@ -114,7 +113,7 @@ If you ask ChatGPT to provide references, always cross-check them yourself, sinc
 ## Ministry Reminder 🙏  
 
 > [!IMPORTANT]  
-> ChatGPT can generate outlines, questions, and summaries — but it cannot discern the needs of your group.  
+> ChatGPT can generate outlines, questions, and summaries, but it cannot discern the needs of your group.  
 > Use it as a helper, and always apply pastoral care, prayer, and biblical discernment before teaching.  
 
 > **“If any of you lacks wisdom, let him ask of God, who gives generously to all without reproach, and it will be given to him.”**  
