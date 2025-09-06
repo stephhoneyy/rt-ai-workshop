@@ -58,7 +58,7 @@ Sample Output:
 
 > [!NOTE]  
 > Your output may look a little different from the example shown here.  
-> That’s normal — ChatGPT doesn’t always give identical answers.  
+> That’s normal, ChatGPT doesn’t always give identical answers.  
 > The important thing is that the **rules are followed** and you can always refine it to make adjustments.
 
 Here’s a balanced September Sunday roster following all the rules you gave:
@@ -200,7 +200,7 @@ The final roster that ChatGPT returned looks good! Let's export it now!
 - ✅ Be **specific**: mention names, ministries, and rules clearly.  
 - ✅ Keep it **one month at a time** for clarity.  
 - ✅ Use **iteration**: it’s normal if the first version isn’t perfect.  
-- ✅ Double-check before sharing — ChatGPT helps draft, you make the final call.
+- ✅ Double-check before sharing, ChatGPT helps draft, you make the final call.
 
  ## Ministry Reminder 🙏
 
