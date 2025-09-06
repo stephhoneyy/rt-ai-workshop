@@ -11,7 +11,7 @@ Example:
 2. **Refine** → See what needs improvement and ask again.  
 3. **Iterate** → Keep adjusting until it looks right.
 
-Think of it like working with an assistant — you give feedback, they try again.
+Think of it like working with an assistant; you give feedback, they try again.
 
 ## Tips for Good Prompts
 - ✅ Be clear and specific  
