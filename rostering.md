@@ -28,7 +28,7 @@ Let's start with introducing a prompt to ChatGPT
 
 ```
 Create a Sunday roster for the month of September with these ministries:
-Usher, Singer, AV, Orchestra.
+Usher, Singer, AV, Orchestra. Format the output as a table.
 
 Volunteers:
 
@@ -40,7 +40,7 @@ C (flexible, can do any ministries on any Sundays)
 
 D (not two weeks in a row)
 
-E (Available all Sundays, but they are a Singer)
+E (Available all Sundays, but they can only be a Singer)
 
 Rules:
 
