@@ -76,9 +76,9 @@ Look at the draft and ask yourself:
 
 You can refine it by asking:
 ```
-“Adapt the questions for a small group of adults who are new to the Bible.”
+Adapt the questions for a small group of adults who are new to the Bible.
 
-“Reduce the number of questions to 3 for a shorter study.”
+Reduce the number of questions to 3 for a shorter study.
 ```
 
 ## Step 3 - Iterate
