@@ -19,7 +19,7 @@ Imagine it’s the beginning of September and we need to plan out the roster for
   - B: Can only serve on the **1st and 3rd Sundays**  
   - C: Cannot do **AV**  
   - D: Should not serve **two weeks in a row**
-  - E: Available every Sunday, but only serves as a Singer 
+  - E: Available every Sunday, but they are only a singer 
 
 Our goal is to make a **fair, balanced roster** that follows these rules without spending hours adjusting the roster spreadsheet.
 
