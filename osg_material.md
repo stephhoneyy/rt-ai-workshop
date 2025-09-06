@@ -9,7 +9,18 @@ AI cannot replace prayer, study, or discernment — but it can be a **helpful to
 - Adapt material for different groups (youth, young adults, mixed congregation)  
 - Suggest prayer points, worship themes, or journaling prompts
 
-[ADD PROMPT --> REFINE --> ITERATE STEPS HERE]
+---
+
+We will be going through the same workflow as before: **ADD PROMPT --> REFINE --> ITERATE**
+
+## Step 1 — Introduce a Simple Prompt 
+
+## Step 2 - Refine the Output
+
+## Step 3 - Iterate
+Keep adjusting until you’re happy with the results!
+
+---
 
 - warn about over reliance on AI
 - the best way to learn is to do it yourself
