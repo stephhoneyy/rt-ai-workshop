@@ -1,5 +1,7 @@
 # Redeeming Tech - Artificial Intelligence Workshop Workbook
 
+<img src="QR_code.png" alt="qr_code" width="200">
+
 > **“The heart of man plans his way, but the Lord establishes his steps.”**  
 > — Proverbs 16:9
 
